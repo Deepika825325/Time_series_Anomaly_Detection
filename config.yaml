@@ -1,0 +1,13 @@
+data:
+  path: data/raw/sensor_dataset.csv
+
+model:
+  contamination: 0.05
+
+lstm:
+  epochs: 5
+  batch_size: 32
+
+output:
+  model_path: outputs/models/model.pkl
+  metrics_path: outputs/metrics/results.json
