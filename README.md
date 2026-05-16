@@ -140,8 +140,14 @@ Time-series analysis
 Model comparison (Stat + ML + DL)
 Production-ready architecture
 Dashboard development
+
 # Demo
-<video src="demo.mp4" width="100%" controls></video>
+<video src="demo.mp4" 
+       controls 
+       style="width: 300px; max-width: 100%; transition: width 0.3s ease;" 
+       onmouseover="this.style.width='100%';" 
+       onmouseout="this.style.width='300px';">
+</video>
 
 # 🔮 Future Improvements
 Real-time streaming data
