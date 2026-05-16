@@ -140,6 +140,8 @@ Time-series analysis
 Model comparison (Stat + ML + DL)
 Production-ready architecture
 Dashboard development
+# Demo
+<video src="demo.mp4" width="100%" controls></video>
 
 # 🔮 Future Improvements
 Real-time streaming data
